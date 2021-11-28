@@ -30,7 +30,7 @@ function checkPies(pies) {
 
 <p>
 const cars = ["Mitsubishi", "Toyota", "Honda", "Nissan"];
-fruits.sort();
+fruits.cars();
 </p>
 
 <p>What would be returned is the vehicles in alphabetical order</p>
